@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 .idea
 /node_modules
 .DS_Store
+=======
+.idea
+/node_modules
+.DS_Store
+>>>>>>> c992ea9 (Initial commit)
