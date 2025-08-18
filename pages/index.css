@@ -5,6 +5,9 @@
 @import url(../blocks/recpies.css);
 @import url(../blocks/reservation.css);
 @import url(../blocks/form.css);
+@import url(../blocks/menu.css);
+@import url(../blocks/card.css);
+@import url(../blocks/about.css);
 
 .footer {
   padding: 60px 80px;
