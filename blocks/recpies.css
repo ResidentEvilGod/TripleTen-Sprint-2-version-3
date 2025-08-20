@@ -33,6 +33,7 @@
   gap: 40px;
   justify-content: center;
   flex-direction: row;
+  border: none;
 }
 
 .recipes__video {
